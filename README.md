@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Master student of Data Engineering and Analytics program at [Technical University of Munich](https://www.cit.tum.de/). Before that, I was studying Electrical Engineering and Computer Science at the [University of Nis](https://www.elfak.ni.ac.rs/). Besides computer systems and software, my interests include Mathematics, Physics and Economics.
+I am a Software Engineer at [Databricks](https://www.databricks.com/). Previously, I obtained my Master's degree in Data Engineering and Analytics at the [Technical University of Munich](https://www.cit.tum.de/) and my Bachelor's degree in Electrical Engineering and Computer Science at the [University of Nis](https://www.elfak.ni.ac.rs/). In addition to computer systems and software, my interests include Mathematics, Physics and Economics.
 
 <!--
 **uros7251/uros7251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
